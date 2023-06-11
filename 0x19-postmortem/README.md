@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Postmortem
 
 Learning how to write an Incident Report, also referred to as a Postmortem. This postmortem follows the guidelines used closely by google engineers to file reports. The report is made up of five parts, an issue summary, a timeline, root cause analysis, resolution and recovery, and lastly, corrective and preventative measures. Lets review each of these parts in detail.
@@ -31,3 +32,6 @@ Learning how to write an Incident Report, also referred to as a Postmortem. This
 
 - itemized list of ways to prevent it from happening again
 - what can we do better next time?
+=======
+
+>>>>>>> ea4dd29516d19467bcf439c6748eadca2f5268de
