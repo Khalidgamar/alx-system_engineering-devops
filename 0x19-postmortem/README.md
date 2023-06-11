@@ -32,3 +32,5 @@ Learning how to write an Incident Report, also referred to as a Postmortem. This
 - itemized list of ways to prevent it from happening again
 - what can we do better next time?
 
+
+![Uploading ALX postmortem.png…]()
