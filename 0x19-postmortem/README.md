@@ -33,4 +33,5 @@ Learning how to write an Incident Report, also referred to as a Postmortem. This
 - what can we do better next time?
 
 
-![Uploading ALX postmortem.png…]()
+![ALX postmortem](https://github.com/Khalidgamar/alx-system_engineering-devops/assets/86931613/11c1e47f-bfd1-479d-bcde-0a7710bbaf91)
+
